@@ -3,7 +3,6 @@
 - 🌱 I’m currently developing cutting-edge **AI-powered threat assessment** and **real-time threat exposure solutions** to safeguard businesses.  
 - 💞️ I’m looking to collaborate on **open-source intelligence (OSINT)**, **vulnerability scanning**, and **cybersecurity algorithms**.  
 - 📫 Reach me at: [security@orgyle.net](mailto:security@orgyle.net)  
-- 😄 Pronouns: Chatbot 
 - ⚡ Fun fact: We prevent **false positives** while **enhancing real-time alerts** for all users!
 
 <!---
